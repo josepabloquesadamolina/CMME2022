@@ -10,5 +10,5 @@
 - Downloading and installing required software and packages for ML and DL (Miniconda, TensorFlow, Jupyter Notebook, etc.)
 ### **Session 2**
 - Overview of available resources: Keras API, Google Colab.
-- Example 1: Running a *classification task* example downloading code directly from Keras API. illustration of basic introduced concepts.
+- Example 1: Running a *classification task* example downloading code directly from Keras API. Illustration of basic introduced concepts.
 
