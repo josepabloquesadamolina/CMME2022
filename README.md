@@ -12,5 +12,5 @@
 - Overview of available resources: Keras API, Google Colab.
 - Example 1:  *Classification task* example code available from Keras API and running directly on Google Colab. Illustration of basic introduced concepts.
 ## **Session 3**
-- Example 2: Converting a classification task into a regression task. Overview of Underfitting and Overfitting problems. Assessment of the training evolution via Loss-Epoch plot.
+- Example 2: Converting a *classification task* into a *regression task*. Overview of Underfitting and Overfitting problems. Assessment of the training evolution via Loss-Epoch plot.
 
