@@ -3,7 +3,7 @@
 ## Practice sessions: Deep Learning Applications in the field of Materials Engineering
 ### Instructions: 
 - Download the files and place them in the default working directory of Jupyter Notebook (typically *C:\Users\<username>*). 
-- Extract the .zip files before attemping to run the Jupyter Notebook files.
+- Extract the .rar files before attemping to run the Jupyter Notebook files.
 ### **Session 1**
 - Brief Introduction to basic concepts: Artificial Intelligence, Machine Learning Paradigms, Deep Learning, Artificial Neural Networks (ANNs), Gradient Descent Algorithm, Challenges during the Training, Regularization Techniques, Convolutional Neural Networks (CNNs).
 - Study case: *Structure-Property Mappings* for Polysilicon Thin-Films found in MEMS.
