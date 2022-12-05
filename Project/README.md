@@ -1,1 +1,2 @@
-
+- Download all files and place them at your default working directory *./Project*
+- Unzip the *pyimagesearch.zip* file before attempting to run *generative.ipynb*
