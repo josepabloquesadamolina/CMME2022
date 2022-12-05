@@ -14,4 +14,7 @@
 ## **Session 3**
 - Example 2:  Starting from the example seen last class, an overview of underfitting and overfitting will be done by introducing modifications in the code in order to induce these problems. Assessment of both scenarios will be done via Loss-Epoch plots.
 - In the second part of the example, modifications in the code will be introduced to illustrate how a CNN can be used for a *regression task*, that is, to achieve a mapping between an image and a numerical value. Instead of producing a vector of probabilities from which the class is later inferred, the model will output a numeric value directly, corresponding to the prediction of the digit itself.
-
+## **Session 4**
+- Theory of Generative Models: VAEs and GANs
+- Example 3: Generative Models
+- Review of the Project.
